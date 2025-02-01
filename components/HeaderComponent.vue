@@ -1,5 +1,5 @@
 <template>
-<p>Header component</p>
+<p>Header componen 2t</p>
 </template>
 
 <script>
